@@ -4,7 +4,7 @@ brand-logo-scale = "100"
 disable-smart-templates = "false"
 
 [settings]
-drawerPosition = 0.500445434298441
+drawerPosition = 1.0
 textViewCursorLength = 0
 textViewCursorLocation = 3762
 textViewScrollPosition = 3765
